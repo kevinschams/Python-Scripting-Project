@@ -19,5 +19,6 @@ Project Steps/Requirements:
 Use the following command to run: 
 - python get_game_data.py data target
 - You may need to install python and Go
--mergesuccess
+- mergesuccess
 - sunday brunch
+- pull plz
