@@ -22,4 +22,3 @@ Use the following command to run:
 - mergesuccess
 - sunday brunch
 - pull plz
-- Alright now design something to make money asynchronously!!
